@@ -1,7 +1,5 @@
 # Task Trackers
 
-[[_TOC_]]
-
 ### Noco DB
 
 - Description : Airtable Alternative

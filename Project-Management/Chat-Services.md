@@ -1,7 +1,5 @@
 # Chat Services
 
-[[_TOC_]]
-
 ### Pumble
 
 - Description : Freemium Chat app as alternative to slack

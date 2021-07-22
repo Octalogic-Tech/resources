@@ -1,7 +1,5 @@
 # Time Trackers
 
-[[_TOC_]]
-
 ### Clockify
 
 - Description : Free time tracker without screenshot

@@ -1,7 +1,5 @@
 # WYSIWYG-Editors
 
-[[_TOC_]]
-
 ### Editor JS
 
 - Description : Block style editor with json output
