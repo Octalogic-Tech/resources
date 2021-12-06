@@ -8,6 +8,3 @@ Collection of resource links
 
 ## Web Tools
 - [WYSIWYG Editors](./Web-Tools/WYSIWYG-Editors)
-
-## Email Tools
-- [Email Tester](./Email/email-tester)
