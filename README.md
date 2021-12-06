@@ -10,4 +10,4 @@ Collection of resource links
 - [WYSIWYG Editors](./Web-Tools/WYSIWYG-Editors)
 
 ## Email Tools
-- [Email Tester](./Email/Email)
+- [Email Tester](./Email/email-tester)
